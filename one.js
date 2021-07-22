@@ -2,5 +2,3 @@ console.log('something');
 //
 //
 //
-//
-/
